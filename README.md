@@ -4,16 +4,16 @@
 Репозиторий с файлами для быстрой настройки сборщика Gulp.
 
 Структура файлов и папок:  
-./src  
-	/css  
-		/main.css  
-		/media.css  
-	/js  
-		/lib.js  
-		/main.js  
-./gulpfile.js  
-./package.json  
-./index.html  
+>./src  
+>>	/css  
+>>>		/main.css  
+>>>		/media.css  
+>>	/js  
+>>>		/lib.js  
+>>>		/main.js  
+>./gulpfile.js  
+>./package.json  
+>./index.html  
 
 ## Описание проекта:
 С помощью этих файлов вы сможете быстро настроить сборку вашего проекта на Gulp.
