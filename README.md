@@ -24,8 +24,9 @@
 ## Ссылки:
 * __YouTube канал ITDoctor:__ https://www.youtube.com/c/ITDoctor
 * __Репозиторий GitHub:__ https://github.com/morphIsmail/gulp_settings
-* __Сайт ITDoctor:__ http://itdoctor.info/
 * __Группа в ВК:__ https://vk.com/itdoctorstudio
+* __Instagram:__ https://instagram.com/ismail_asanovich/
+* __Telegram:__ https://t.me/itdoctorr
 * __Мой Twitter:__ https://twitter.com/ITDoctor_morph
 
 ## Для поддержки развития проекта:
